@@ -1,7 +1,7 @@
 # AdventOfCode2022
 My solutions for AOC2022
 
-## Why waas this repository created??
+## Why was this repository created??
 This repo was created because I (1) want to back up by code and (2) to provide you with a possible solution to the AOC 2022 competition.
 
 As soon as I have time, I will focus on solving the provided problems in Java.
