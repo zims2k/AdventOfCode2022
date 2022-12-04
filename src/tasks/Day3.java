@@ -113,6 +113,6 @@ public class Day3 {
             }
         }
 
-        System.out.printf("The three-eves-group duplicate items is: %d%n", totalSum2);
+        System.out.printf("The three-elves-group duplicate items is: %d%n", totalSum2);
     }
 }
