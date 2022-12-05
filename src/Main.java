@@ -1,7 +1,4 @@
-import tasks.Day1;
-import tasks.Day2;
-import tasks.Day3;
-import tasks.Day4;
+import tasks.*;
 
 import java.io.IOException;
 
@@ -11,5 +8,6 @@ public class Main {
         Day2.run();
         Day3.run();
         Day4.run();
+        Day5.run();
     }
 }
