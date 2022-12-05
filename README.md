@@ -20,6 +20,6 @@ I will now more focus on the tasks and algorithms I have to use and less than on
 
 Heading to new directions and solving problems ;) Happy advent (of code) to all of you!!
 
-## My personal hints
+## My personal hints/learnings
 - Focus on the actual problem, not on the problems that may arise in future
 - Focus on the algorithms, not on writing perfect object oriented code
